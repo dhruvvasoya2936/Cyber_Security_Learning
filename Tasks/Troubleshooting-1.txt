@@ -1,0 +1,47 @@
+Task-1:The computer occasionally fails to start.
+
+-->First of all I will check power cables which are attached with computer, because if
+power cables broke then it's possible.
+-->Then I will check LED indicators, if power LED is off it means electricity not reach
+to the PC.
+-->Then I will test SMPS beacuse It will happen when system have faulty SMPS.
+-->Then I will check RAM and RAM slot beacuse It will happen when system have faulty 
+RAM, because Faulty RAM is not supporting boot to computer.
+-->Then I will check CPU beacuse sometimes It will happen when CPU failed or CPU's 
+processer failed or CPU gets overheat.
+-->It will happen when system have faulty GPU.
+
+
+Task-2:The system date and time reset after shutdown.
+
+-->In this kind of case mostly system have dead COMS battery, so test COMS battery with
+use of multimetter.
+-->Then After set BIOS settings and then after you will restart the system for testing.
+-->If problem will not solve then you will update BIOS system or check motherboard faults.
+
+
+Task-3:The computer runs very slowly.
+
+-->First, check if the RAM and storage device are working properly and can run the
+ system.
+-->Then, check if the CPU or GPU is overheating.
+-->Then, check if there is any fault in the GPU.
+-->Finally, check if the system has any virus or malicious files that are causing it
+ to hang or run slowly. 
+
+
+Task-4:The display sometimes does not appear.
+
+-->First, check if there is any fault in the GPU or if the correct GPU driver is
+ installed.
+-->Then, restart the computer and check if the problem is fixed.
+-->After that, test the SMPS because a faulty SMPS can sometimes cause this problem. 
+-->Sometimes, the RAM may also be faulty.
+
+
+Task-5: The system becomes unusually hot after a short period of use
+
+-->In this kind of problem, the cooling system may have failed.
+-->First, check the heatsink and the thermal paste.
+-->Sometimes, this problem happens when the system is running high-graphics tasks
+ without a dedicated GPU.
